@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #F1C40F;
+    background-color: #ffd129;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -19,7 +19,7 @@ header h1 {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: #fff;
+    background-color: #ffd129;
     border-radius: 8px;
 }
 
@@ -51,5 +51,5 @@ footer {
     text-align: center;
     padding: 10px 0;
     background-color: #F1C40F;
-    color: #fff;
+    color: #ffd129;
 }
