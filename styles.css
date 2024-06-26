@@ -1,5 +1,5 @@
 body {
-    font-family: GT-HelveticaPPlot;
+    font-family: Century Gothic;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -19,7 +19,7 @@ header h1 {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: #ffd129;
+    background-color: #fff;
     border-radius: 8px;
 }
 
