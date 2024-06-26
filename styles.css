@@ -37,11 +37,11 @@ header h1 {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 20px; /* Jarak antar item */
 }
 
 .gallery .item {
-    flex: 1 1 calc(33.333% - 60px);
+    flex: 1 1 45%; /* Ukuran item lebih besar */
     box-sizing: border-box;
     border: 1px solid #ccc;
     border-radius: 10px;
